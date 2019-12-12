@@ -1,4 +1,5 @@
 **Summary**
+
 This project contains a Flask API that exposes news and twitter data to enable simple analysis and visualization of parallel or diverging trends/topics in news and social media.
 
 This API exposes three endpoints:
